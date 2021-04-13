@@ -1,7 +1,7 @@
 # Assignment4
 ## Group members:
 * Gaurav Kumar Sinha
-* Peeyush
+* Piyush
 * Chandu Poloju
 
 ### Gaurav Kumar Sinha
@@ -9,4 +9,8 @@
 
 We are creting a hello world program.
 Each contributer will have a output like  "Hello World Contributor_Name"
+
+### Piyush
+
+### Chandu Poloju
 
