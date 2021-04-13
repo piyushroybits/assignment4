@@ -1,7 +1,7 @@
 # OSSE Assignment 4
-[Piyush Roy Assignment Github](https://github.com/piyushroybits/assignment4)
-[Gaurav Kumar Sinha Assignment Github](https://github.com/gauravsinha200/assignment4)
-[Chandu Poloju Assignment Github](https://github.com/chandupolojubits/assignment4)
+*[Piyush Roy Assignment Github](https://github.com/piyushroybits/assignment4)
+*[Gaurav Kumar Sinha Assignment Github](https://github.com/gauravsinha200/assignment4)
+*[Chandu Poloju Assignment Github](https://github.com/chandupolojubits/assignment4)
 
 ## Group members:
 * Gaurav Kumar Sinha
