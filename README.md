@@ -2,7 +2,7 @@
 
 ## Group members:
 * Gaurav Kumar Sinha
-* Piyush
+* Piyush Roy
 * Chandu Poloju
 
 ### Gaurav Kumar Sinha
