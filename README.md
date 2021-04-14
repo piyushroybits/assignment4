@@ -1,4 +1,6 @@
 # OSSE Assignment 4
+*Welcome to OSSE Assignment 4 Page. We have created this page through collabration to understand our demo application. This application is a collection  of small programs developed in C++ language using collobration by Group 31 members.*
+
 [Piyush Roy Assignment Github Link](https://github.com/piyushroybits/assignment4)
 
 [Gaurav Kumar Sinha Assignment Github Link](https://github.com/gauravsinha200/assignment4)
@@ -26,4 +28,5 @@ Added CPP files
 
 
 ### Chandu Poloju
+Added CPP files
 
