@@ -11,12 +11,19 @@
 * Chandu Poloju
 
 ### Gaurav Kumar Sinha
-*This a an OSSE Assignment *
+*This a an OSSE Assignment*
 
-We are creating a hello world program.
-Each contributer will have a output like  "Hello World Contributor_Name"
+We are creating a Demo Application for Our Assignment having below functionality.
+* Adding numbers
+* Division between two numbers
+* Factorial calculation
+* Hello World Output
+
+Hello World Program will have an output like  "Hello World"
 
 ### Piyush Roy
 Added CPP files
 
+
 ### Chandu Poloju
+
